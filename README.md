@@ -5,6 +5,7 @@
 
 ### **Версии проекта**
 ***
+1. [Mesto (React, в разработке)](https://github.com/romankrivopalov/mesto)
 1. Mesto (classes, в разработке) :star: *этот репозиторий*
 2. [Mesto (классическая версия на JS)](https://github.com/romankrivopalov/mesto-classic)
 
@@ -24,5 +25,5 @@
 * Webpack
 
 ***
-[Открыть сайт в браузере](https://romankrivopalov.github.io/mesto/)\
+[Открыть сайт в браузере](https://romankrivopalov.github.io/mesto-classes/)\
 [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
